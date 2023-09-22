@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Eric Frisch - Musician and Creative Communicator</title>
+<link rel="icon" type="image/png" href="/favicon.png">
+<base target="_blank">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {background-color:#FFFFFF; margin:50px auto; width:700px; font-family:Helvetica,sans-serif; font-size:100%; text-align:left; color:#0D0C0C;}
+a {color:#914949; text-decoration:none;}
+h1 {margin-bottom:10px;}
+h2 {font-size:1.25em; font-weight:500; margin-top:0;}
+h3 {font-size:1em;}
+ul {line-height:1.5em;}
+@media only screen and (max-width:750px)
+{body {margin:25px; width:auto}}
+</style>
+</head>
+<body>
+<header>
+<img src="/eric.jpg" alt="Eric Frisch Headshot" width="125" height="125">
+<h1>Eric Frisch</h1>
+<h2>Musician & Creative Communicator</h2>
+</header>
+<main>
+<p>I'm a musician, educator, and creative communicator who has spent my career leading teams, managing projects, and refining processes to create better experiences and meaningful interactions for people. I'm passionate about people, art, faith, and technology and I love finding new intersections of those passions.</p>
+<p>Currently, I lead the Account Relations team at <a href="https://getacceptd.com">Acceptd</a> - a group of inventive problem-solvers who pride ourselves on providing radical service to our partner organizations. I also serve as Principal Percussionist with the <a href="https://westervillesymphony.org">Westerville Symphony Orchestra</a> and maintain a busy freelance performing schedule as a multi-instrumentalist.</p>
+<p>Previously, I spent 11 years as the Worship Arts Director at <a href="https://centerpointchurches.com">CenterPoint Church</a> and managed events at the <a href="https://capital.edu">Capital University</a> Conservatory of Music. I completed my undergraduate studies in music at <a href="https://otterbein.edu">Otterbein University</a> and have performed with a wide variety of classical, musical theater, and pop/rock groups throughout Ohio and the United States. In 2020, I completed my Master of Arts degree at <a href="https://westernsem.edu">Western Theological Seminary</a>.</p>
+<p>Please feel free to <a href="mailto:contact@ericfrisch.com">get in touch</a>. I'd love to work with you, or just say hello!</p>
+</main>
+<footer>
+<hr>
+<h3><a href="mailto:contact@ericfrisch.com">Email Me</a></h3>
+</footer>
+</body>
+</html>
