@@ -5,6 +5,5 @@ h1 a {color:#0D0C0C;}
 h2 {font-size:1.25em; font-weight:500; margin-top:0;}
 h3 {font-size:1em;}
 ul {line-height:1.5em;}
-#dates {list-style-type:none;}
 @media only screen and (max-width:750px)
 {body {margin:25px; width:auto}}
