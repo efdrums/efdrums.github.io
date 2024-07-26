@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Eric Frisch - Musician and Creative Communicator</title>
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="stylesheet" href="style.css">
+<base target="_blank">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<header>
+<img src="/eric.jpg" alt="Eric Frisch Headshot" width="125" height="125">
+<h1>Eric Frisch</h1>
+<h2>Musician & Creative Communicator</h2>
+</header>
+<main>
+<h3>Essentials</h3>
+<ul>
+<li><a href="https://blog.ericfrisch.com">Writing</a></li>
+<li><a href="music.html" target="_self">Music</a>
+<li><a href="https://daftsocial.com/ericfrisch">Daft Social</a></li>
+<li>Product Owner: <a href="https://getacceptd.com">Acceptd</a></li>
+<li>Technical Director: <a href="https://dublinbaptist.com">Dublin Baptist Church</a></li>
+</ul>
+<h3>Upcoming Dates</h3>
+<ul>
+<li><strong>August 9-10</strong> - <a href="https://www.van-dells.com">The Van-Dells</a> 50th Reunion, Cincinnati, OH. <a href="https://www.vdbo.net">Tickets</a>.</li>
+</ul>
+</main>
+<nav>
+<hr>
+<h3>Home | <a href="bio.html" target="_self">Bio</a> | <a href="mailto:contact@ericfrisch.com">Email Me</a></h3>
+</nav>
+</body>
+</html>
