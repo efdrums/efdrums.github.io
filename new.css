@@ -1,9 +1,8 @@
 body {background-color:#EEE9E3; margin:50px auto; width:700px; font-family:Tahoma,sans-serif; font-size:large; font-weight:500; text-align:left; color:#030303;}
 a {color:#914149; text-decoration:none;}
-h1 {margin-bottom:10px;}
+h1 {font-weight:500; margin-bottom:10px;}
 h1 a {color:#030303;}
-h2 {font-size:1.25em; font-weight:500; margin-top:0;}
-h3 {font-size:1em;}
+h2 {font-size:100%;}
 ul {line-height:1.5em;}
 img {border-radius: 50%;}
 @media only screen and (max-width:750px)
