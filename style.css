@@ -9,4 +9,5 @@ img.header {border-radius: 50%;}
 body {margin:25px; width:auto}}
 @media (prefers-color-scheme:dark) {
 body {background-color:#13120B; color:#DBDBDB;}
+a {color:#77ADC0;}
 h1 a {color:#DBDBDB;}}
