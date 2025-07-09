@@ -5,9 +5,8 @@ h1 a {color:#242424;}
 h2 {font-size:100%;}
 ul {line-height:150%;}
 img.header {border-radius: 50%;}
-@media only screen and (max-width:750px)
-{body {margin:25px; width:auto}}
+@media only screen and (max-width:750px) {
+body {margin:25px; width:auto}}
 @media (prefers-color-scheme:dark) {
 body {background-color:#13120B; color:#DBDBDB;}
-a {color:#77ADC0;}
 h1 a {color:#DBDBDB;}}
