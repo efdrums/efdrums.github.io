@@ -8,5 +8,5 @@ img.header {border-radius: 50%;}
 @media only screen and (max-width:750px) {
 body {margin:25px; width:auto}}
 @media (prefers-color-scheme:dark) {
-body {background-color:#13120B; color:#EBEBEB;}
-a {color:#48859D;}}
+body {background-color:#0C1821; color:#EBEBEB;}
+a {color:#4A88A1;}}
