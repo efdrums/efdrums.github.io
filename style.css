@@ -3,7 +3,7 @@ a {color:#3F786B; text-decoration:none;}
 h1 {font-weight:500; margin-bottom:10px;}
 h1 a {color:inherit;}
 h2 {font-size:100%;}
-li {margin-bottom:2em;}
+li {margin-bottom:1.5em;}
 img.header {border-radius: 50%;}
 @media only screen and (max-width:750px) {
 body {margin:25px; width:auto}}
